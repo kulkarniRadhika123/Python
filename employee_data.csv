@@ -1,0 +1,12 @@
+EmployeeID,Name,Department,Salary,JoinDate,PerformanceScore,Active
+101,Alice,HR,55000,2018-06-21,,True
+102,Bob,Finance,62000,2019-07-15,4.2,True
+103,Charlie,IT,72000,2020-08-10,4.8,True
+104,David,Marketing,58000,2017-03-12,3.9,False
+105,Eva,IT,69000,2021-01-05,4.5,True
+106,Frank,Finance,,2018-11-30,4.0,True
+107,Grace,HR,53000,2019-04-18,3.2,False
+108,Helen,Marketing,60000,2020-09-25,4.1,True
+109,Ian,IT,71000,2022-02-14,NULL,True
+110,Jane,Finance,63000,2021-06-01,4.3,True
+110,Jane,Finance,63000,2021-06-01,4.3,
